@@ -10,3 +10,5 @@ Type in the phishing alert info, issues summary, email information, and (IOC's)
 login your admin account
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Phishing-Alert-ticket-and-assigning-it-to-a-SOC-L1/blob/3184e47ec5895cb3fe7df2105e3255a8c728027d/Screenshot%202026-08-16%20042152.png) 
 Change the priority to high
+![Image alt](https://github.com/Kevinolee1/Creating-a-Phishing-Alert-ticket-and-assigning-it-to-a-SOC-L1/blob/4ef5d47ff93ee4b2729ea50a148db202c5c0df58/Screenshot%202026-08-16%20042218.png)
+Assign the ticket to a SOC L1
