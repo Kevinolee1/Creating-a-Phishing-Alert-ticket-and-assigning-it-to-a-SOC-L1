@@ -4,3 +4,5 @@ A phishing alert was generated after a suspicious email was reported by a user.
 Click on open new ticket
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Phishing-Alert-ticket-and-assigning-it-to-a-SOC-L1/blob/90d716926c47407592ff21e642d3495005f284a3/README.md)
 Type in the victim's email address and name. Change the Help topic to security incident. Type in the issue in the of the issue summary box.
+![Image alt](https://github.com/Kevinolee1/Creating-a-Phishing-Alert-ticket-and-assigning-it-to-a-SOC-L1/blob/85e45253ede163e64d20d06052a6855e781f3e20/Screenshot%202026-08-16%20041914.png)
+Type in the phishing alert info, the issues summary
